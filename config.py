@@ -1,1 +1,0 @@
-TOKEN = '5274451126:AAHfPznw6JZKgtuMfZlmO40Bt0f-hGJ7lTI' # Токен бота от @BotFather
